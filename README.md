@@ -9,4 +9,4 @@
 - 😄 Pronouns: magbanum, mag, magnum...
 - ⚡ Fun fact: or you can call me shantu😄
 
-<img src="https://github-readme-stats.vercel.app/api?username=magbanum&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=#FBFF00">
+<img src="https://github-readme-stats.vercel.app/api?username=magbanum&&show_icons=true&title_color=404040&icon_color=00ccff&text_color=a6a6a6&bg_color=#f2f2f2">
