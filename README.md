@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with getting new projects for my portfolio
 - 💬 Ask me about Youtube, Quora or any online platforms
-- 📫 How to reach me: LinkedIn - [@shantanu-nighot](https://www.linkedin.com/in/shantanu-nighot/) Facebook - [@shantanu.nighot.1](https://www.facebook.com/shantanu.nighot.1/) Instagram - [@magbanum](https://www.instagram.com/magbanum/)
+- 📫 How to reach me: LinkedIn - [@shantanu-nighot](https://www.linkedin.com/in/shantanu-nighot/); Facebook - [@shantanu.nighot.1](https://www.facebook.com/shantanu.nighot.1/); Instagram - [@magbanum](https://www.instagram.com/magbanum/)
 - 😄 Pronouns: magbanum, mag, magnum...
 - ⚡ Fun fact: or you can call me shantu😄
 
+<img src="https://github-readme-stats.vercel.app/api?username=magbanum&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
