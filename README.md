@@ -1,6 +1,6 @@
 ### Hello, my name is Shantanu Nighot 👋
 
-- 🔭 I’m currently working on my pwersonal website [magbanum.live](https://magbanum.live/) and my blog [magbanum.tech](https://magbanum.tech/)
+- 🔭 I’m currently working on my personal website [magbanum.live](https://magbanum.live/) and my blog [magbanum.tech](https://magbanum.tech/)
 - 🌱 I’m currently learning Python frameworks and libraries.
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with getting new projects for my portfolio
