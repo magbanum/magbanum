@@ -12,7 +12,7 @@
 - 😌 favourite anime: Naruto saga, Demon slayer, Black clover, Full metal alchemist, Boku no Hero Academia, Hunter X hunter.
 
 ## Recent Blogs 📝
-
+- [How to use Hashnode APIs in Python.](https://magbanum.tech/how-to-use-hashnode-apis-in-python)
 - [Dark/Light theme switcher for your Website.](https://magbanum.tech/darklight-theme-switcher-for-your-website)
 - [Online platforms to learn programming languages for free.](https://magbanum.tech/online-platforms-to-learn-programming-languages-for-free)
 - [Things to consider before choosing an e-learning platform](https://magbanum.tech/things-to-consider-before-choosing-an-e-learning-platform)
