@@ -11,6 +11,8 @@
 - 😜 Fun Facts: I love watching anime and playing games.
 - 😌 favourite anime: Naruto saga, Demon slayer, Black clover, Full metal alchemist, Boku no Hero Academia, Hunter X hunter.
 
+#### Check out my latest project [Octoprofile](https://octoprofile.herokuapp.com/).
+
 ## Recent Blogs 📝
 - [Pagination in Django](https://magbanum.tech/pagination-in-django)
 - [How to use Hashnode APIs in Python.](https://magbanum.tech/how-to-use-hashnode-apis-in-python)
@@ -19,4 +21,3 @@
 - [Things to consider before choosing an e-learning platform](https://magbanum.tech/things-to-consider-before-choosing-an-e-learning-platform)
 - [Why daily.dev is a must-have extension for all developers.](https://magbanum.tech/why-dailydev-is-a-must-have-extension-for-all-developers)
 
-<img src="https://github-readme-stats.magbanum.vercel.app/api?username=magbanum&&show_icons=true&title_color=404040&icon_color=00ccff&text_color=a6a6a6&bg_color=#f2f2f2">
