@@ -1,7 +1,7 @@
 ### Hello, my name is Shantanu Nighot 👋
 
 - 🔭 I’m currently working on my personal website [magbanum.live](https://magbanum.live/) and my blog [magbanum.tech](https://magbanum.tech/)
-- 🌱 I’m currently learning Python frameworks and libraries.
+- 🌱 I’m currently learning MongoDB & JavaScript.
 - 👯 I’m looking for a full time job or an internship opportunities related to my skills.
 - 💬 I know Python, C, HTML5, CSS3, MATLAB programming
 - ⚡ Next in Learning path: JavaScript, MongoDB, Oracle, PostgreSQL
