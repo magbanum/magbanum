@@ -21,9 +21,7 @@
 - [Dark/Light theme switcher for your Website.](https://magbanum.tech/darklight-theme-switcher-for-your-website) |
 - [Online platforms to learn programming languages for free.](https://magbanum.tech/online-platforms-to-learn-programming-languages-for-free) |
 - [Things to consider before choosing an e-learning platform](https://magbanum.tech/things-to-consider-before-choosing-an-e-learning-platform) |
-- [Why daily.dev is a must-have extension for all developers.](https://magbanum.tech/why-dailydev-is-a-must-have-extension-for-all-developers) | 
-
-<a href="https://app.daily.dev/magbanum"><img src="https://api.daily.dev/devcards/c9fc8d30a9f04375bb3e6da8b0d78419.png?r=swo" width="300" alt="Shantanu Nighot's Dev Card"/></a>   
+- [Why daily.dev is a must-have extension for all developers.](https://magbanum.tech/why-dailydev-is-a-must-have-extension-for-all-developers) |   
 
 [![magbanum's GitHub stats](https://github-readme-stats.vercel.app/api?username=magbanum)](https://github.com/magbanum/)
               
