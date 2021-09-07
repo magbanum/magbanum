@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my personal website [magbanum.live](https://magbanum.live/) and building projects on Django.
 - 🌱 I’m currently learning Django & MongoDB.
-- 👯 I’m looking for a full time job or an internship opportunities related to my skills.
+- 👯 I’m looking for a full time job opportunities related to my skills.
 - 💬 I know Python, C, HTML5, CSS3, Git, Heroku
 - ⚡ Next in Learning path: JavaScript, React, Oracle, PostgreSQL
 - 📦 Frameworks and Modules: Django, Django REST Framework, Bootstrap
@@ -11,7 +11,10 @@
 - 😜 Fun Facts: I love watching anime and playing games.
 - 😌 favourite anime: Naruto saga, Demon slayer, Black clover, Full metal alchemist, Boku no Hero Academia, Hunter X hunter.
 
-#### Check out my latest project [Octoprofile](https://octoprofile.herokuapp.com/).
+## Projects
+- [Octoprofile](https://octoprofile.herokuapp.com/) |
+- [Oneforall-blog](https://oneforall-blog.herokuapp.com/) |
+- [Quotes-gen-project](https://quotes-gen-project.herokuapp.com) |
 
 ## Recent Blogs 📝
 - [Starting Django project with MongoDB using Djongo.](https://magbanum.tech/starting-django-project-with-mongodb-using-djongo) | 
