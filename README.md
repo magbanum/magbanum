@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on my personal website [magbanum.live](https://magbanum.live/) and building projects on Django.
 - 🌱 I’m currently learning Django & MongoDB.
 - 👯 I’m looking for a full time job opportunities related to my skills.
-- 👀 Interests: Full stack development, Graphic Designing
+- 👀 Interests: Full stack development, Open-Source, Graphic Designing
 - 😜 Fun Facts: I love watching anime and playing games.
 - 😌 favourite anime: Naruto saga, Demon slayer, Black clover, Full metal alchemist, Boku no Hero Academia, Hunter X hunter.
 
@@ -23,6 +23,7 @@
 - [Octoprofile](https://octoprofile.herokuapp.com/)
 - [Oneforall-blog](https://oneforall-blog.herokuapp.com/)
 - [Quotes-gen-project](https://quotes-gen-project.herokuapp.com)
+- [Python-Community-Discussions](https://github.com/magbanum/Python-Community-Discussions)
 
 ## Recent Blogs 📝
 - [Starting Django project with MongoDB using Djongo.](https://magbanum.tech/starting-django-project-with-mongodb-using-djongo) 
