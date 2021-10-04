@@ -1,6 +1,6 @@
 ### Hello, my name is Shantanu Nighot 👋
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-121212?style=for-the-badge&logo=ko-fi&logoColor=7e77f6)](https://magbanum.live) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-nighot) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/magbanum) [![twitter](https://img.shields.io/badge/instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/magbanum)
+[![portfolio](https://img.shields.io/badge/my_portfolio-7e77f6?style=for-the-badge&logo=&logoColor=121212)](https://magbanum.live) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-nighot) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/magbanum) [![twitter](https://img.shields.io/badge/instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/magbanum)
 
 ![Profile views](https://profile-counter.glitch.me/magbanum/count.svg)
 
