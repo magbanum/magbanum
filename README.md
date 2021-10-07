@@ -1,15 +1,22 @@
-### Hello, my name is Shantanu Nighot 👋
+## 👋 Hello, my name is Shantanu Nighot
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-7e77f6?style=for-the-badge&logo=&logoColor=121212)](https://magbanum.live) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-nighot) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/magbanum) [![twitter](https://img.shields.io/badge/instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/magbanum)
-
 ![Profile views](https://profile-counter.glitch.me/magbanum/count.svg)
 
 - 🔭 I’m currently working on my personal website [magbanum.live](https://magbanum.live/) and building projects on Django.
-- 🌱 I’m currently learning Django & MongoDB.
-- 👯 I’m looking for a full time job opportunities related to my skills.
+- 🌱 Learning MongoDB and cloud platforms.
 - 👀 Interests: Full stack development, Open-Source, Graphic Designing
 - 😜 Fun Facts: I love watching anime and playing games.
 - 😌 favourite anime: Naruto saga, Demon slayer, Black clover, Full metal alchemist, Boku no Hero Academia, Hunter X hunter.
+
+
+<a href="https://api.daily.dev/get?r=magbanum" target="_blank">
+  <img
+    width="300"
+    align="right"
+    src="devcard.svg"
+  />
+</a>
 
 ## 💻Tech Stack
 
@@ -17,15 +24,15 @@
 - **Frameworks and modules:** Django, Django REST framework, Bootstrap
 - **Tools:** Git, VS Code, Powershell
 - **Databases:** MongoDB
-- **Operating System:** Windows
+- **Operating System:** Windows 
 
-## Projects
+## 👨🏼‍💻 Projects
 - [Octoprofile](https://octoprofile.herokuapp.com/)
 - [Oneforall-blog](https://oneforall-blog.herokuapp.com/)
 - [Quotes-gen-project](https://quotes-gen-project.herokuapp.com)
 - [Python-Community-Discussions](https://github.com/magbanum/Python-Community-Discussions)
 
-## Recent Blogs 📝
+## 📝 Recent Blogs
 - [Starting Django project with MongoDB using Djongo.](https://magbanum.tech/starting-django-project-with-mongodb-using-djongo) 
 - [Octoprofile - the Django project](https://magbanum.tech/octoprofile-the-django-project)
 - [Pagination in Django](https://magbanum.tech/pagination-in-django)
