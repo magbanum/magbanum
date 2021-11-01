@@ -4,7 +4,7 @@
 ![Profile views](https://profile-counter.glitch.me/magbanum/count.svg)
 
 - 🔭 I’m currently working on my personal website [magbanum.live](https://magbanum.live/) and building projects on Django.
-- 🌱 Learning MongoDB and cloud platforms.
+- 🌱 Learning Java and cloud platforms.
 - 👀 Interests: Full stack development, Open-Source, Graphic Designing
 - 😜 Fun Facts: I love watching anime and playing games.
 - 😌 favourite anime: Naruto saga, Demon slayer, Black clover, Full metal alchemist, Boku no Hero Academia, Hunter X hunter.
