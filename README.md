@@ -20,7 +20,7 @@
 
 ## 💻Tech Stack
 
-- **Languages:** Python, HTML, CSS
+- **Languages:** Python, HTML, CSS, SQL
 - **Frameworks and modules:** Django, Django REST framework, Bootstrap
 - **Tools:** Git, VS Code, Powershell
 - **Databases:** MongoDB
