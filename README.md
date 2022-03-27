@@ -1,9 +1,9 @@
 ## 👋 Hello, my name is Shantanu Nighot
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-7e77f6?style=for-the-badge&logo=&logoColor=121212)](https://magbanum.live) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-nighot) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/magbanum) [![twitter](https://img.shields.io/badge/instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/magbanum)
+[![portfolio](https://img.shields.io/badge/my_portfolio-7e77f6?style=for-the-badge&logo=&logoColor=121212)](https://magbanum.com) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-nighot) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/magbanum) [![twitter](https://img.shields.io/badge/instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/magbanum)
 ![Profile views](https://profile-counter.glitch.me/magbanum/count.svg)
 
-- 🔭 I’m currently working on my personal website [magbanum.live](https://magbanum.live/) and building projects on Django.
+- 🔭 I’m currently working on my personal website [magbanum.com](https://magbanum.com/) and building projects on Django.
 - 🌱 Learning Java and cloud platforms.
 - 👀 Interests: Full stack development, Open-Source, Graphic Designing
 - 😜 Fun Facts: I love watching anime and playing games.
