@@ -42,7 +42,7 @@
 - [Things to consider before choosing an e-learning platform](https://magbanum.tech/things-to-consider-before-choosing-an-e-learning-platform)
 - [Why daily.dev is a must-have extension for all developers.](https://magbanum.tech/why-dailydev-is-a-must-have-extension-for-all-developers)
 
-➡️ [more blog posts...](https://magbanum.tech/)
+➡️ [more blog posts...](https://magbanum.com/blog/)
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
